@@ -8,7 +8,7 @@ Slight modifications were required to enable the engine to play our game, which 
 ## Steps to open the game:
 
 * run chesszero.py to run game
-# Or to make exe file
+#### Or to make exe file
 * Run setup.py and build it(for help go to https://pythonprogramming.net to learn how to make exe)
 * After building file follow below steps to run game
 * Folder contains "chesszero.exe" inside folder "ChessZero", which is to be executed.
