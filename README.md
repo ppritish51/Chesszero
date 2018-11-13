@@ -7,8 +7,11 @@ Slight modifications were required to enable the engine to play our game, which 
 
 ## Steps to open the game:
 
-* The rar folder sent is to be unzipped.
-* It contains "chesszero.exe" inside folder "ChessZero", which is to be executed.
+* run chesszero.py to run game
+# Or to make exe file
+* Run setup.py and build it(for help go to https://pythonprogramming.net to learn how to make exe)
+* After building file follow below steps to run game
+* Folder contains "chesszero.exe" inside folder "ChessZero", which is to be executed.
 * The Home page of the game opens up, with options to play the game or read the relevant rules.
 
 
