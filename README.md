@@ -25,7 +25,7 @@ Slight modifications were required to enable the engine to play our game, which 
 * Anirudh Khawas
 * Pritish
 
-###Special thanks to:
+### Special thanks to:
 * Prateek (https://github.com/prateek76)
 
 
