@@ -10,3 +10,21 @@ Slight modifications were required to enable the engine to play our game, which 
 * The rar folder sent is to be unzipped.
 * It contains "chesszero.exe" inside folder "ChessZero", which is to be executed.
 * The Home page of the game opens up, with options to play the game or read the relevant rules.
+
+
+######TO DO LIST######
+1. Pawn Promotion (for sure)
+2. Online Game (if got time.....)
+3. Make better computer opponent using deep learning (again if got time.......)
+
+Help for step 2 and 3 will appreciated. 
+
+People involved in game development:
+Rajan Singh(Idea for this game)
+Anirudh Khawas
+Pritish
+
+Special thanks to:
+Prateek (https://github.com/prateek76)
+
+
