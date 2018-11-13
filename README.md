@@ -20,11 +20,11 @@ Slight modifications were required to enable the engine to play our game, which 
 Help for step 2 and 3 will appreciated. 
 
 People involved in game development:
-Rajan Singh(Idea for this game)
-Anirudh Khawas
-Pritish
+1. Rajan Singh(Idea for this game)
+2. Anirudh Khawas
+3. Pritish
 
 Special thanks to:
-Prateek (https://github.com/prateek76)
+1. Prateek (https://github.com/prateek76)
 
 
