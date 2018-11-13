@@ -12,19 +12,20 @@ Slight modifications were required to enable the engine to play our game, which 
 * The Home page of the game opens up, with options to play the game or read the relevant rules.
 
 
-######TO DO LIST######
-1. Pawn Promotion (for sure)
-2. Online Game (if got time.....)
-3. Make better computer opponent using deep learning (again if got time.......)
+## TO DO LIST:
+* Pawn Promotion (for sure)
+* Online Game (if got time.....)
+* Make better computer opponent using deep learning (again if got time.......)
 
 Help for step 2 and 3 will appreciated. 
 
-People involved in game development:
-1. Rajan Singh(Idea for this game)
-2. Anirudh Khawas
-3. Pritish
+##Authors
 
-Special thanks to:
-1. Prateek (https://github.com/prateek76)
+* Rajan Singh(Idea for this game)
+* Anirudh Khawas
+* Pritish
+
+###Special thanks to:
+* Prateek (https://github.com/prateek76)
 
 
