@@ -17,9 +17,9 @@ Slight modifications were required to enable the engine to play our game, which 
 * Online Game (if got time.....)
 * Make better computer opponent using deep learning (again if got time.......)
 
-Help for step 2 and 3 will appreciated. 
+### Help for step 2 and 3 will appreciated. 
 
-##Authors
+## Authors
 
 * Rajan Singh(Idea for this game)
 * Anirudh Khawas
