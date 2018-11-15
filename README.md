@@ -30,5 +30,6 @@ Slight modifications were required to enable the engine to play our game, which 
 
 ### Special thanks to:
 * Prateek (https://github.com/prateek76)
+* Anurag Maurya (https://github.com/anuragmaurya)
 
 
